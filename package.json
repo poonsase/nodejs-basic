@@ -1,0 +1,19 @@
+{
+    "name": "nodejs-basic",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/app.js"
+    "scripts":{
+        "start": "node src/app.js",
+        "dev": "nodemon src/app.js"
+    },
+    "keyword": [],
+    "author": "Watcharis Taiyapongsakul",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.4"
+    },
+    "devDependencies": {
+        "nodemon": "^1.18.6"
+    }
+    }
